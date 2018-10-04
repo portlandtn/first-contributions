@@ -76,6 +76,10 @@ Copy one of the other contributors&apos; lines and modify it with your name to m
 
 <img src="assets/vs2017-08-change1.png" alt="Add your name" />
 
+If you don&apost see any files on the Solution Explorer tab, you may have to click the Show Folders View link on the Team Explorer tab.
+
+<img src="assets/show_folder_view.png" alt="Show folder view" />
+
 ## Commit & Push changes to GitHub
 
 Switch back to Team Explorer and navigate to the Changes view.
